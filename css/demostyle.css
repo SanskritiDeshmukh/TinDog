@@ -1,0 +1,32 @@
+.carousel-item{
+    height: 500px;
+    
+}
+
+.aqua{
+    background-color:red;
+    width:100px;
+    height:100px;
+    border-width:2px solid;
+      position: absolute;
+}
+.blue{
+
+    left: 600px;
+    top: 600px;
+    background-color:yellow;
+    width:100px;
+    height:100px;
+    border-width:2px solid;
+      position: absolute;
+}
+.brown
+{
+ background-color:blue;   
+    left: 800px;
+    top: 800px;
+    width:100px;
+    height:100px;
+    border-width:2px solid;
+      position: absolute;
+}
